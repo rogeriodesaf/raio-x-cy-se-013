@@ -1,0 +1,19 @@
+Version: 1.4.2
+
+Imagem raio-x:antes
+{
+  "user": "0"
+}
+false
+
+Imagem raio-x:original
+{
+  "user": "65532"
+}
+true
+
+Imagem raio-x:alterada
+{
+  "user": "65532"
+}
+true
