@@ -1,0 +1,3 @@
+bb71d6b1428c6c74e982649c596d8ea908857921d27bf7e89b8e0e78ab8fd52d  build/original.tar
+27d5dff3d252dc27a9babc1020f3da0ba1aa5a13044fc7beeb842b34363416d7  build/alterada.tar
+7c7ecd83dba4e1c82a2578cf524ba5b79a43b12856eca23352e1615cc250b308  build/antes.tar
