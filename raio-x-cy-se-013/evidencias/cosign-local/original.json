@@ -1,0 +1,2 @@
+
+[{"critical":{"identity":{"docker-reference":"127.0.0.1:18593/raio-x@sha256:c9e24d87c2884e8c50e5f0e4005493549ae2419b81cb2f75d53a6b78b01d0ba6"},"image":{"docker-manifest-digest":"sha256:c9e24d87c2884e8c50e5f0e4005493549ae2419b81cb2f75d53a6b78b01d0ba6"},"type":"https://sigstore.dev/cosign/sign/v1"},"optional":{}}]
